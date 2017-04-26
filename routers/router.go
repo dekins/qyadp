@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"dein.top/qyadp/qyadp/controllers"
+	"dein.top/qyadp/controllers"
 	"github.com/astaxie/beego"
 )
 
